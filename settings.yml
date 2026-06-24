@@ -4,6 +4,6 @@ search:
     - html
     - json
 server:
-  secret_key: "change-this-secret-key-2026"
+  secret_key: "mK9$vL2#nX8@qR4!wT6&pJ3^hY7*cF1"
   bind_address: "0.0.0.0"
   limiter: false
