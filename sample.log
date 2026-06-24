@@ -1,0 +1,10 @@
+2026-06-18 10:00:00 INFO Server started on port 8080
+2026-06-18 10:00:05 DEBUG Loading configuration
+2026-06-18 10:01:00 ERROR Failed to connect to database
+2026-06-18 10:01:05 WARN Retry attempt 1
+2026-06-18 10:01:10 INFO Connection established
+2026-06-18 10:02:00 ERROR Timeout on query execution
+2026-06-18 10:02:05 INFO Request processed successfully
+2026-06-18 10:03:00 DEBUG Cache cleared
+2026-06-18 10:04:00 ERROR Memory allocation failed
+2026-06-18 10:05:00 INFO Server shutting down
